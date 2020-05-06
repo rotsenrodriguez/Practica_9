@@ -1,0 +1,12 @@
+Números:  
+  int (enteros con signo)
+  long (enteros largos, también se pueden representar en octal y hexadecimal)
+  float (valores reales de punto flotante)
+  complex (números complejos).
+cadenas
+Lista
+Tupla
+Diccionario
+
+
+https://www.codigofuente.org/variables-en-python/
