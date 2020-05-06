@@ -1,0 +1,33 @@
+Operadores aritméticos
+  Suma>> a+b
+  Resta>>a-b
+  Negación>> -a
+  Multiplicación>>a*b
+  Exponente>> a**b
+  División>> a/b
+  D.Entera>> a//b
+  
+Operadores Lógicos
+  And>> True and False
+  Or>> True or False
+  Not>> not False
+  
+Operadores relacionales
+  ==>> 3==5
+  != >> 3!=5
+  <
+  >
+  <=
+  >=
+ 
+ Operadores de asignaciones
+  =
+  +=
+  -=
+  *=
+  /=
+  **=
+  //=
+  %=
+  
+  
